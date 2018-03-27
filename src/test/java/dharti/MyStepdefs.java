@@ -168,5 +168,6 @@ public class MyStepdefs implements BasePage {
     @And("^User click on Audio accessories$")
     public void userClickOnAudioAccessories() throws Throwable {
 
+
     }
 }
